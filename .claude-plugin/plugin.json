@@ -1,0 +1,8 @@
+{
+  "name": "output-speed",
+  "version": "0.1.0",
+  "description": "Shows the model's output speed above the prompt: TTFT and tok/s over the generation window.",
+  "author": { "name": "qi.zuo" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "output-speed",
+  "owner": { "name": "enakzzz" },
+  "description": "Claude Code mods by enakzzz.",
+  "plugins": [{ "name": "output-speed", "source": "./" }]
+}
